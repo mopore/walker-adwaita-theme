@@ -1,6 +1,8 @@
 # walker-adwaita-theme
 
-Adwaita/GNOME inspired theme for Walker app launcher
+Adwaita/GNOME inspired theme for Walker app launcher, with green accent color.
+
+![](images/Screenshot-main.png)
 
 ## How to use
 
