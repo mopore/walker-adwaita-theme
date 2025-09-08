@@ -44,6 +44,7 @@
                     <property name="halign">fill</property>
                     <property name="hexpand-set">true</property>
                     <property name="hexpand">true</property>
+                    <property name="width-request">300</property>
                   </object>
                 </child>
               </object>
@@ -55,6 +56,16 @@
                 </style>
                 <property name="orientation">horizontal</property>
                 <property name="spacing">12</property>
+                <child>
+                  <object class="GtkLabel" id="ElephantHint">
+                    <style>
+                      <class name="elephant-hint"></class>
+                    </style>
+                    <property name="label">Waiting for elephant...</property>
+                    <property name="height-request">400</property>
+                    <property name="width-request">300</property>
+                  </object>
+                </child>
                 <child>
                   <object class="GtkLabel" id="Placeholder">
                     <style>
